@@ -3,31 +3,45 @@ layout: page
 title: Hakkımızda & İletişim
 description: Hakkımızda & İletişim
 ---
-## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+## Hakkımızda
+www.epostakaydol.site 2018 yılında hizmet vermeye başlamış olup çocuk, genç, yaşlı demeden herkese yeni bir e-posta hesabı açmayı öğretmek amacıyla kurulmuştur.
 
-## Features
+### İletişim
 
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
+<form action="/">
 
-### Setup
+    <label for="fname">E-Posta</label>
+    <input type="text" id="fname" placeholder="E-Postanız" />
 
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
+    <label for="subject">Soru</label>
+    <textarea id="subject" placeholder="Sorunuz veya mesajınız.. Size e-posta adresinizden ulaşacağız." style="height:200px"></textarea>
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
+    <input type="submit" value="Gönder" />
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
+  </form>
 
+<style>
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
 
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
 
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
-
-![Monochrome](img/monochrome01.png "monochrome")
-
-
-
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+</style>
