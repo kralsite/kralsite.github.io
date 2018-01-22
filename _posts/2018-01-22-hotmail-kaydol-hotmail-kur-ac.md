@@ -7,7 +7,7 @@ header: Hotmail Kaydol, Hotmail Kur
 
 ⦁	Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.
 
-<a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">www.Hotmail.com</button></a>
+<center><a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">www.Hotmail.com</button></a></center>
 
 ⦁	Resmi kayıt sayfasına ulaştığınızda sizi karşılayan ara yüzün sağ üst tarafında ‘Hesap Oluştur’ yazan yere tıklayarak kayıt işlemlerine başlayabilirsiniz.  Bu aşamada sizi resimdeki gibi bir bölüm karşılayacaktır. Burada yer alan ilk bölüme kullanmak istediğiniz Hotmail adresinizi yazmanızı, alt kısıma ise yeni hesabınızın şifresini yazmanız gerekiyor. Hotmail size mail adresinizin uzantısı olarak 3 adet alternatif sunuyor. Bunlar arasında istediğinizi seçip hemen ardından ‘İleri’ butonuna basın.
 <br><img width="270" height="290" title="hotmail kaydol" src="/img/hotmail1.png">
