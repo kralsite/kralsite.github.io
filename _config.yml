@@ -1,10 +1,9 @@
 # Site settings
-title: Monochrome
-description: "A minimal, responsive,."
+title: E Posta Aç - E Posta Kur ve Kaydol
+description: "E Posta Aç ve E Posta Kur"
 url: "https://www.epostakaydol.site"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
+  name: "E Posta Uzmanı"
   url: "https://www.epostakaydol.site"
 
 # Build settings
