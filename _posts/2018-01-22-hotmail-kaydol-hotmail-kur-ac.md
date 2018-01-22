@@ -8,15 +8,15 @@ header: Hotmail Kaydol, Hotmail Kur
 ⦁	Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
 <center><a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Hotmail.com</button></a></center><br>
 ⦁	Resmi kayıt sayfasına ulaştığınızda sizi karşılayan ara yüzün sağ üst tarafında ‘Hesap Oluştur’ yazan yere tıklayarak kayıt işlemlerine başlayabilirsiniz.  Bu aşamada sizi resimdeki gibi bir bölüm karşılayacaktır. Burada yer alan ilk bölüme kullanmak istediğiniz Hotmail adresinizi yazmanızı, alt kısıma ise yeni hesabınızın şifresini yazmanız gerekiyor. Hotmail size mail adresinizin uzantısı olarak 3 adet alternatif sunuyor. Bunlar arasında istediğinizi seçip hemen ardından ‘İleri’ butonuna basın.
-<br><img width="270" height="290" title="hotmail kaydol" src="/img/hotmail1.png">
+<br><img width="270" height="300" title="hotmail kaydol" src="/img/hotmail1.png">
 
 ⦁	Bu bölümde sizden ad ve soyadınız istenecektir. Bu bilgileri de yazdıktan sonra tekrar ‘İleri’ butonuna basın.
-<br><img width="270" height="290" title="hotmail kaydol ad soyad ve şifre" src="/img/hotmail2.png">
+<br><img width="270" height="300" title="hotmail kaydol ad soyad ve şifre" src="/img/hotmail2.png">
 
 ⦁	Bu bölümde ise yaşadığınız ülke ve doğum tarihi bilgileriniz istenecektir. Bu bilgileri de doldurup tekrar ‘İleri’ butonuna basın.
 <br><img width="270" height="290" title="hotmail kaydol ülke ve doğum tarihi" src="/img/hotmail3.png">
 
 ⦁	Hotmail Kaydol (hesap aç) işlemlerinin son bölümünde ise sizden ekranda gördüğünüz rakam ve harflerden oluşan doğrulama kodunu girmeniz istenecektir. Bu rakam ve harfleri dikkatli bir şekilde girerek tekrar ‘İleri’ butonuna basınız. Böylelikle Hotmail hesabınız oluşturulacaktır.
-<br><img width="270" height="295" title="hotmail kaydol doğrulama kodu" src="/img/hotmail4.png">
+<br><img width="270" height="300" title="hotmail kaydol doğrulama kodu" src="/img/hotmail4.png">
 
 Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çekinmeyin. Uzmanlarımız size yardım etmek için sorularınızı bekliyorlar.
