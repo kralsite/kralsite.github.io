@@ -11,6 +11,6 @@ Google tarafından geliştirilerek kullanıcılara ücretsiz bir şekilde sunula
 <br><img width="265" height="380" title="gmail açılış ekranı" src="/img/gmail1.png">
 
 ⦁ Böylelikle Gmail hesabınız kullanıma hazır olacak ve aktif bir şekilde kullanmaya başlayabileceksiniz. 
-<br><img width="360" height="300" title="gmail açılış ekranı" src="/img/gmail2.png">
+<br><img width="460" height="300" title="gmail açılış ekranı" src="/img/gmail2.png">
 
 Sorularınızı aşağıdaki yorum panelinden bizlere iletebilirsiniz, uzmanlarımız çok kısa süre içerisinde size dönüş yapacaktır.
