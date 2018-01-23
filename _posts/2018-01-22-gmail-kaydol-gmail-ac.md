@@ -8,7 +8,7 @@ Google tarafından geliştirilerek kullanıcılara ücretsiz bir şekilde sunula
 ⦁	Gmail kaydol işlemleri için öncelikli olarak Gmail’in resmi kayıt sitesine ulaşılması gereklidir. Alttaki butona tıklayarak bu resmi kayıt sitesine ulaşabilirsiniz.<br>
 <center><a href="https://goo.gl/acnZEc" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Gmail.com</button></a></center><br>
 ⦁	Gmail kayıt sitesinde sizi karşılayan ara yüzde sizden bazı bilgiler istenecektir. Bu bilgiler; ad, soyad, kullanıcı adınız, şifreniz, cinsiyetiniz, doğum tarihiniz, telefon numaranız, varsa mevcut diğer e posta adresiniz ve ülkenizdir. Sizden istenen bu bilgiler Google tarafından saklanacaktır. Herhangi bir şekilde üçüncü kişiler ile paylaşılmayacaktır. Bu yüzden gönül rahatlığı ile başta telefon numarası olarak üzere istenen diğer bilgileri belirtilen yere yazabilirsiniz. Bu bilgileri dikkatli bir şekilde doldurarak sayfada yer alan ‘Sonraki Adım’ butonuna tıklayın.
-<br><img width="265" height="380" title="gmail açılış ekranı" src="/img/gmail1.png">
+<br><img width="265" height="400" title="gmail açılış ekranı" src="/img/gmail1.png">
 
 ⦁ Böylelikle Gmail hesabınız kullanıma hazır olacak ve aktif bir şekilde kullanmaya başlayabileceksiniz. 
 <br><img width="460" height="300" title="gmail açılış ekranı" src="/img/gmail2.png">
