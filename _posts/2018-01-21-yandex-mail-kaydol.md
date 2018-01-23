@@ -14,4 +14,4 @@ header: Yandex Mail Kaydol (Telefonsuz)
 <br><img width="265" height="380" title="gmail açılış ekranı" src="/img/yandex2.png">
 
 ⦁	Artık Yandex Mail hesabınızı kullanabilirsiniz. Sizi karşılayan bu sayfada mail sayfanıza ulaşabilir ya da hesap ayarlarınızı yapabilirsiniz.
-<br><img width="685" height="480" title="gmail açılış ekranı" src="/img/yandex3.png">
+<br><img width="685" height="400" title="gmail açılış ekranı" src="/img/yandex3.png">
