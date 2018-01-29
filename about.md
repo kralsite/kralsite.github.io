@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hakkımızda & İletişim
-description: Hakkımızda & İletişim
+title: Hakkımızda & İletişim & Gizlilik
+description: Hakkımızda & İletişim & Gizlilik
 ---
 ## Hakkımızda
 www.epostakaydol.site 2018 yılında hizmet vermeye başlamış olup çocuk, genç, yaşlı demeden herkese yeni bir e-posta hesabı açmayı öğretmek amacıyla kurulmuştur.
@@ -19,6 +19,16 @@ www.epostakaydol.site 2018 yılında hizmet vermeye başlamış olup çocuk, gen
     <input type="submit" value="Gönder" />
 
   </form>
+
+
+### Gizlilik Politikası
+www.epostakaydol.site sitesi olarak gizlilik politikamızda belirtmemiz gereken maddeler aşağıdadır.
+
+<strong>Reklamlar</strong>
+Sitemizde Google Adsense şirketinin reklamlarını yayınlamaktayız. Bu reklamlar çerez (cookies) kullanımı içerebilir ve bizim bu bilgiye ulaşmamız mümkün değildir. Biz Google Adsense ile çalışmaktayız lütfen onların ilgili sayfalarından gizlilik politikalarını okuyunuz.
+
+<strong>Dış Bağlantılar</strong>
+www.epostakaydol.site sitesi içerisinde farklı internet adreslerine bağlantılar verilmektedir. www.epostakaydol.site link verdiği sitelerin gizlilik politikalarından sorumlu değildir. Bu linkleri ziyaret etmek kullanıcıların insiyatifindedir.
 
 <style>
 input[type=text], select, textarea {
