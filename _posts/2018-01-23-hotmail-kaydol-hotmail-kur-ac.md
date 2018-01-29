@@ -26,7 +26,7 @@ header: Hotmail Kaydol, Hotmail Kur
 ⦁	Bu bölümde ise yaşadığınız ülke ve doğum tarihi bilgileriniz istenecektir. Bu bilgileri de doldurup tekrar ‘İleri’ butonuna basın.
 <br><img width="270" height="290" title="hotmail kaydol ülke ve doğum tarihi" src="/img/hotmail3.png">
 
-⦁	Hotmail Kaydol (hesap aç) işlemlerinin son bölümünde ise sizden ekranda gördüğünüz rakam ve harflerden oluşan doğrulama kodunu girmeniz istenecektir. Bu rakam ve harfleri dikkatli bir şekilde girerek tekrar ‘İleri’ butonuna basınız. Böylelikle Hotmail hesabınız oluşturulacaktır.
+⦁	Hotmail Kaydol (hesap aç) işlemlerinin son bölümünde ise sizden ekranda gördüğünüz rakam ve harflerden oluşan doğrulama kodunu girmeniz istenecektir. Bu rakam ve harfleri dikkatli bir şekilde girerek tekrar ‘İleri’ butonuna basınız. Endişelenmenize gerek yok, yanlış girerseniz o kod yenilenir ve sistem yeni kodu girmenizi ister. Böylelikle Hotmail hesabınız oluşturulacaktır.
 <br><img width="270" height="300" title="hotmail kaydol doğrulama kodu" src="/img/hotmail4.png">
 
 Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çekinmeyin. Uzmanlarımız size yardım etmek için sorularınızı bekliyorlar.
