@@ -13,3 +13,11 @@ details {float: left;     width: 100%;
     margin-top: 5px;}
 summary {outline: 0;
     cursor: pointer;}
+
+#header {
+    border-bottom: 1px solid rgba(0,0,0,0.14);
+    text-align: center;
+    margin-bottom: 4px !important;
+    height: 5em;
+    position: relative;
+}
