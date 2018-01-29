@@ -3,6 +3,7 @@ title: Hotmail Kaydol, Hotmail Aç
 description: Ücretsiz olarak yeni bir hotmail e-posta hesabı açın. Hotmail kaydol, hotmail kur.
 header: Hotmail Kaydol, Hotmail Kur
 ---
+<center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle"
@@ -21,7 +22,7 @@ header: Hotmail Kaydol, Hotmail Kur
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+</center>
 1996 yılı itibari ile dünya devi Microsoft tarafından kullanıcılara ücretsiz bir şekilde sunulan Hotmail kaydol milyonlarca kişi tarafından aktif bir şekilde kullanılmaktadır. Hotmail kullanıcılar karşısına ücretsiz bir şekilde çıktığı gibi ücretli versiyonu da bulunmaktadır. Ücretsiz versiyonunda kullanıcılar için 5 GB boyutunda depolama alanı sunulurken ücretli versiyonda ise yıllık 19.95 USD ödeme ile bu depolama alanı 10 GB boyuta çıkmaktadır. Hotmail aç işlemleri ise çok basit bir şekilde gerçekleştirilir
 
 ⦁	Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
