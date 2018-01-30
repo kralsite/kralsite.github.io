@@ -28,6 +28,16 @@ header: Hotmail Kaydol, Hotmail Kur
 ⦁	Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
 <center><a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Hotmail.com</button></a></center><br>
 ⦁	Resmi kayıt sayfasına ulaştığınızda sizi karşılayan ara yüzün sağ üst tarafında ‘Hesap Oluştur’ yazan yere tıklayarak kayıt işlemlerine başlayabilirsiniz.  Bu aşamada sizi resimdeki gibi bir bölüm karşılayacaktır. Burada yer alan ilk bölüme kullanmak istediğiniz Hotmail adresinizi yazmanızı, alt kısıma ise yeni hesabınızın şifresini yazmanız gerekiyor. Hotmail size mail adresinizin uzantısı olarak 3 adet alternatif sunuyor. Bunlar arasında istediğinizi seçip hemen ardından ‘İleri’ butonuna basın.
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 <br><img width="270" height="300" title="hotmail kaydol" src="/img/hotmail1.png">
 
 ⦁	Bu bölümde sizden ad ve soyadınız istenecektir. Bu bilgileri de yazdıktan sonra tekrar ‘İleri’ butonuna basın.
@@ -40,5 +50,16 @@ header: Hotmail Kaydol, Hotmail Kur
 <br><img width="270" height="300" title="hotmail kaydol doğrulama kodu" src="/img/hotmail4.png">
 
 Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çekinmeyin. Uzmanlarımız size yardım etmek için sorularınızı bekliyorlar.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esnekw -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="6805302882"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <a name="kaydol">E Posta Kur</a>
