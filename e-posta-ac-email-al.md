@@ -1099,7 +1099,7 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 
 <details>
 <summary><b>Kelime Gezgini</b> - Bulmaca 1001-1180 Cevaplar</summary> 
-<ol>
+<ol start="1001">
 <li>1001.<strong> Anadolu denince :</strong> Mezopotamya – Malazgirt – Türkü – Otantik – Mutfak</li>
 <li>1002. <strong>Bayram Mesajlarındaki en bilindik kelimeler :</strong> Huzurlu – Dileğiyle – Sevgi dolu – Hepbirlikte</li>
 <li>1003. <strong>Polis Çevirmesi :</strong> Alkol varmı – Ehliyet – Promil – Memur bey – Sağa çek</li>
@@ -1285,7 +1285,7 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 	
 <details>
 <summary><b>Kelime Oyunu</b> - Bulmaca 1181-1250 Cevaplar</summary> 
-<ol>
+<ol start="1181">
 <li>1181.<strong> Basketbol Sahası :</strong> Pota – Çizgi – File – Panya – Çember – Tribün – Parke</li>
 <li>1182. <strong>Geometrik Şekiller :</strong> Daire – Paralel kenar – Yamuk – Prizma – Altıgen – Küp</li>
 <li>1183. <strong>Zıt Anlamlısını Bul :</strong> Kazanç – Çekingen – Öznel – Gerekli – Profesyonel</li>
@@ -1361,7 +1361,7 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 
 <details>
 <summary><b>Kelime Oyunu 2</b> - Bulmaca 1251-1359 Cevaplar</summary> 
-<ol>
+<ol start="1251">
 <li>Müzik Grubu : Solist – Bas gitar – Vokal – Perküsyon – Bateri</li>
 <li>İğne Kullanılan Yerler : Akupunktur – Okul Panosu – Botoks – Baş Örtüsü</li>
 <li>Evlilik Hayatı : Çocuk – Sadakat – Beraberlik – Düzen – Sorumluluk</li>
@@ -1477,7 +1477,7 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 
 <details>
 <summary><b>Kelime Oyunu 3</b> - Bulmaca 1360-1420 Cevaplar</summary> 
-<ol>
+<ol start="1360">
 <li>Ünlülerin Lakapları : Megastar – Diva – Minikserçe – İmparator – Huysuz</li>
 <li>Şapka Türleri : Kep – Fes – Fötr – Bere – Kasket – Kovboy – Kalpak – Hasır</li>
 <li>ATM İşlemi Yaparken : Para çekme – Havale – Hesap Özeti – Bakiye – Şifre</li>
