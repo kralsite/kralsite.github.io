@@ -1582,3 +1582,6 @@ Türkçesi Ne:<br>
 Sosyal Medyada Gezinirken Rastlanılanlar: Yer Bildirimi – Tespit – Anket – Reklam – Davet<br>
 </ol>
 </details>
+
+<br>
+<br>
