@@ -5,7 +5,7 @@ description: Saniyeler içerisinde ücretsiz olarak Hotmail, Gmail, Yandex veya 
 <center><h1>E Posta Aç</h1></center>
 E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bütün büyük e-mail servislerini sizler için derledik. Sizler de 2 adımda e posta hesabı açmak istiyorsanız birinci adımda sitemizden istediğiniz mail servisini bulabilir ve ikinci adım olarakta direkt o mail servisinin "Resmi Kayıt Sayfasına" tek tıklamayla ulaşabilirsiniz. Numaralandırma rastgele yapılmıştır. Herhangi bir hiyerarşi içermez.
 <h2>1. Hotmail (Outlook E Posta)</h2>
-<img width="350" height="90" title="hotmail logo" src="/img/hotmaillogo.jpg" />
+<img width="200" height="100" title="hotmail logo" src="/img/hotmaillogo.jpg" />
 Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
 
 Hotmail Kaydolma Resimli Anlatım: <a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac</a> <br>
