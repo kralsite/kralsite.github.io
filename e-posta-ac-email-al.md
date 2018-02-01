@@ -13,7 +13,7 @@ Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendi
 <center><a href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac">Gmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Gmail kısaltmasıyla ünlenen Google Mail, web tabanlı en çok kullanılan e-posta servislerinden biridir. Kullanıcılarına 15 GB ücretsiz depolama alanı sunan Gmail, 2004 yılında Google şirketi tarafından piyasaya tanıtıldı ve 2005 yılı itibariyle yeni hesap alımlarını başlattı. 2015 yılında 1 milyar kullanıcıya ulaştı. Gmail'in en belirgin özelliği sağladığı depolama alanıdır. İş hayatındaki birçok kullanıcı depolama alanı biter ve gönderilen e-postalar bana ulaşmaz endişesiyle diğer mail servislerini değil de iş maili olarak bunu kullanırlar. Ayrıca çok büyük bir spam filtresi olduğu için bütün gereksiz e-postalar spam klasöründe otomatik olarak toplanır.
 <h3>Yandex E-mail Kaydol</h3>
-<img width="168" height="85" title="yandex mail logo" src="/img/yandexmailkayit.jpg" />
+<img width="228" height="85" title="yandex mail logo" src="/img/yandexmailkayit.jpg" />
 <center><a href="https://www.epostakaydol.site/yandex-mail-kaydol">Yandex.Mail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Bol miktarda depolama alanı ve ücretsiz kullanıma sahip olan bir diğer servis ise Yandex.Mail'dir. İş için farklı bir mail servisi deneyimi mi istiyorsunuz? Veya telefon numaram yok mail hesabı açamıyorum mu diyorsunuz? Sebebi her ne olursa olsun telefonsuz olarakta kayıt olabileceğiniz Yandex.Mail hizmetinizde. IMAP ve POP erişimi dahil çok basit bir arayüzle bizlere sunulan bu sistemi hemen sizler de deneyebilirsiniz.
 <h3>Yahoo E Posta Kur</h3>
