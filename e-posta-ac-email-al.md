@@ -18,7 +18,7 @@ Gmail kısaltmasıyla ünlenen Google Mail, web tabanlı en çok kullanılan e-p
 <img width="168" height="85" title="yandex mail logo" src="/img/yandexmailkayit.jpg" />
 Bol miktarda depolama alanı ve ücretsiz kullanıma sahip olan bir diğer servis ise Yandex.Mail'dir. İş için farklı bir mail servisi deneyimi mi istiyorsunuz? Veya telefon numaram yok mail hesabı açamıyorum mu diyorsunuz? Sebebi her ne olursa olsun telefonsuz olarakta kayıt olabileceğiniz Yandex.Mail hizmetinizde. IMAP ve POP erişimi dahil çok basit bir arayüzle bizlere sunulan bu sistemi hemen sizler de deneyebilirsiniz.
 
-<a href="https://www.epostakaydol.site/yandex-mail-kaydol">Yandex.Mail Kaydolma Resimli Anlatım için tıklayın.></a> <br>
+<a href="https://www.epostakaydol.site/yandex-mail-kaydol">Yandex.Mail Kaydolma Resimli Anlatım için tıklayın.</a> <br>
 <h3>Yahoo E Posta Kur</h3>
 <img width="90" height="90" title="yahoo mail logo" src="/img/yahoo-mail.png" />
 Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çapında kullanılmaktadır. Yahoo'nun bütün servislerini kullanmak için Yahoo mail hesabı açmanız gerekmektedir. Yeni bir hesap açmak 1 dakika içerisinde yapılabilecek basit bir işlemden ibarettir. Bunun için ihtiyacınız olan tek şey ise bilgisayar veya telefon veya tablet.
