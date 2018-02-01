@@ -22,7 +22,7 @@ Bol miktarda depolama alanı ve ücretsiz kullanıma sahip olan bir diğer servi
 
 Yandex.Mail Kaydolma Resimli Anlatım: <a href="https://www.epostakaydol.site/yandex-mail-kaydol">https://www.epostakaydol.site/yandex-mail-kaydol></a> <br>
 Yandex.Mail Resmi Sitesi: <a rel="nofollow" target="_blank" href="https://goo.gl/QbjxH7">https://mail.yandex.com.tr</a>
-<h4>4. Yahoo E Posta Kur</h4>
+<h3>4. Yahoo E Posta Kur</h3>
 <img width="90" height="90" title="yahoo mail logo" src="/img/yahoo-mail.png" />
 Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çapında kullanılmaktadır. Yahoo'nun bütün servislerini kullanmak için Yahoo mail hesabı açmanız gerekmektedir. Yeni bir hesap açmak 1 dakika içerisinde yapılabilecek basit bir işlemden ibarettir. Bunun için ihtiyacınız olan tek şey ise bilgisayar veya telefon veya tablet.
 
