@@ -2,7 +2,7 @@
 title: E Posta Aç | En Çok Kullanılan 4 E-Posta Al Sitesi
 description: Saniyeler içerisinde ücretsiz olarak Hotmail, Gmail, Yandex veya Yahoo üzerinden e posta hesabı açın. En çok kullanılan sitelerin kaydolma sayfa linkleri burada.
 ---
-<h1>E Posta Aç</h1>
+<center><h1>E Posta Aç</h1></center>
 E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bütün büyük e-mail servislerini sizler için derledik. Sizler de 2 adımda e posta hesabı açmak istiyorsanız birinci adımda sitemizden istediğiniz mail servisini bulabilir ve ikinci adım olarakta direkt o mail servisinin "Resmi Kayıt Sayfasına" tek tıklamayla ulaşabilirsiniz. Numaralandırma rastgele yapılmıştır. Herhangi bir hiyerarşi içermez.
 <p><br /><img width="150" height="150" title="hotmail logo" src="/img/hotmaillogo.jpg" /></p>
 <h2>1. Hotmail (Outlook E Posta)</h2>
