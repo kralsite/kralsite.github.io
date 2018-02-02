@@ -4,7 +4,7 @@ title: Hakkımızda & İletişim & Gizlilik
 description: Hakkımızda & İletişim & Gizlilik
 ---
 ## Hakkımızda
-www.epostakaydol.site 2018 yılında hizmet vermeye başlamış olup çocuk, genç, yaşlı demeden herkese yeni bir e-posta hesabı açmayı öğretmek amacıyla kurulmuştur.
+Kral.site 2018 yılında kuruldu. Tek amacı doğru bilgiyi paylaşmak.
 
 ### İletişim
 
@@ -22,13 +22,7 @@ www.epostakaydol.site 2018 yılında hizmet vermeye başlamış olup çocuk, gen
 
 
 ### Gizlilik Politikası
-www.epostakaydol.site sitesi olarak gizlilik politikamızda belirtmemiz gereken maddeler aşağıdadır.
-
-<strong>Reklamlar</strong>
-Sitemizde Google Adsense şirketinin reklamlarını yayınlamaktayız. Bu reklamlar çerez (cookies) kullanımı içerebilir ve bizim bu bilgiye ulaşmamız mümkün değildir. Biz Google Adsense ile çalışmaktayız lütfen onların ilgili sayfalarından gizlilik politikalarını okuyunuz.
-
-<strong>Dış Bağlantılar</strong>
-www.epostakaydol.site sitesi içerisinde farklı internet adreslerine bağlantılar verilmektedir. www.epostakaydol.site link verdiği sitelerin gizlilik politikalarından sorumlu değildir. Bu linkleri ziyaret etmek kullanıcıların insiyatifindedir.
+Kral.Site gizlilik politikası güncellenecektir. Kullanıcılarımın hiçbir verisini saklamıyoruz. Ancak sitemizde kullandığımız Google Adsense reklamları cookies (çerez) kullanımı içeriyor olabilir. Gerekli bilgiyi o servisin gizlilik sözleşmesi üzerinden alabilirsiniz. Onun dışında her site de olduğu gibi sitemizde de istatistik amaçlı tarayıcı adınız, işletim sisteminiz, IP adresiniz vesaire bilgiler saklanmaktadır.
 
 <style>
 input[type=text], select, textarea {
