@@ -1,7 +1,7 @@
 ---
 title: Bilgisayarım PUBG Kaldırır mı? Kaç FPS Alırım? (Sistem Gereksinimleri)
 description: Bilgisayarım PUBG Kaldırır mı? Kaç FPS Alırım? (Sistem Gereksinimleri)
-header: Bilgisayarım PUBG Kaldırır mı? Kaç FPS Alırım? (Sistem Gereksinimleri)
+header: Bilgisayarım PUBG Kaldırır mı? Kaç FPS Alırım?
 ---
 PUBG oyununu çalıştırmak istiyorsanız, en az 2 GB belleğe sahip bir GeForce GTX 660 veya Radeon HD 7850 ekran kartlarından birine sahip olmanız gerekir. İşlemciniz ise bir Core i3-4340 veya bir AMD FX-6300 olması gerekir. Tabii bu minimum olarak sahip olmanız gereken parçalardır. Yani daha iyisi olursa daha iyi performans alırsınız. Ve eğer bu parçalara sahipesniz, CoD WW2, Destiny 2, FIFA 18 ve Shadow of War gibi oyunları da en azından minimum seviyede çalıştırabilirsin.
 
