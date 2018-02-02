@@ -1,10 +1,10 @@
 # Site settings
-title: E Posta Aç - E Posta Kur ve Kaydol
-description: "E Posta Aç ve E Posta Kur"
-url: "https://www.epostakaydol.site"
+title: Kral.Site
+description: "En kral bilgi."
+url: "https://kral.site"
 author:
-  name: "E Posta Uzmanı"
-  url: "https://www.epostakaydol.site"
+  name: "Kral"
+  url: "https://kral.site"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
