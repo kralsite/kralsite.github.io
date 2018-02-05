@@ -1,0 +1,17 @@
+---
+title: 12 Adımda Resimler Hafıza Kartına Nasıl Taşınır?
+description: Resimleri Hafıza Kartına Nasıl Taşıyacağım? 12 Adımda Resimler Hafıza Kartına Nasıl Taşınır?
+header: Resimleri Hafıza Kartına Nasıl Taşırım?
+---
+<ol><li>Android cihazınız için SD kartının yani hafıza kartının hazır olduğundan emin olun. SD kartı şimdi cihaza takın. Bazı durumlarda, SD yuvasına erişebilmeniz için telefonun arkasını kaldırmanız gerekir.<li/>
+<li>Cihazınızda Ayarlar başlıklı ayar sayfasını açın. Cihazınızın menüsünde bulunan dişli çark logolu kısım.<li/>
+<li>Aşağı kaydırın ve Depolama Alanı'na dokunun. Bu seçenek Ayarlar sayfasının yarısı civarlarındadır.<li/>
+<li>Dahili depolama öğesine hafifçe dokunun.<li/>
+<li>Görüntüler'e dokunun.<li/>
+<li>Bir resim konumu seçin. Android cihazınızın kamerasını kullanarak çektiğiniz fotoğrafları görüntülemek için Kamera'ya dokunun. Varsa, farklı bir konumdan (ör. Bir uygulama, WhatsApp, Telegram) fotoğrafları görüntülemek için burada listelenen başka bir klasöre de dokunabilirsiniz.<li/>
+<li>Taşınacak fotoğrafları seçin. Bir fotoğrafı seçmek için basılı tutun, ardından taşımak istediğiniz diğer fotoğraflara seçmek için dokunun. Ayrıca klasördeki her fotoğrafı seçmek için sağ üstteki ":" öğesine dokunup ardından Hepsini Seç'e dokunabilirsiniz.<li/>
+<li>Sağ üstteki 3 noktaya dokunun. Ekranın sağ üst köşesinde, bir açılır menü karşınıza gelecektir.<li/>
+<li>Taşı'ya dokunun... Eğer taşı yoksa "Şuraya Taşı" seçeneği mutlaka vardır. Öyle bir seçenekte yoksa ona benzer bir şeyler elbet vardır. O da yoksa bizim yapabileceğimiz bir şey yok.<li/>
+<li>SD kartınızın adına dokunun.<li/>
+<li>Fotoğraflarınızı taşımak için hafıza kartınızın içinden bir klasör seçin. Varolan bir klasöre dokunun ya da sağ üst köşedeki üç nokta simgesine dokunun, Yeni klasör'ü seçin ve yeni klasörün adını girin.<li/>
+<li>Tamam'a veya Bitti'ye dokunun. Fotoğrafların boyutuna göre belirli bir süre içerisinde taşıma işlemi bitecektir.<li/></ol>
