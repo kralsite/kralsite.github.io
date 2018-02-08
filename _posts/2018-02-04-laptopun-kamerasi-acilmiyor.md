@@ -9,7 +9,7 @@ Laptop yani dizüstü bilgisayarınızın web kamerası Windows 7, Windows 10, W
 <li>Orada sarı bir işaret görürseniz, sorunu düzeltmek için aşağıdaki kılavuzda bulunan adımları izleyin.</li>
 </ul>
 
-<h3>Sürücüyü Kaldırma</h3> 
+<h3>Web Kamerası Sürücüsünü Çalışır Hale Getirmek</h3> 
 1. Kameranın üstüne sağ tıklatın ve açılan bağlam menüsünden Kaldır'ı seçin. Alttaki resim sizlere referans olması amacıyla yüklenmiştir.
 <img src="https://image.prntscr.com/image/gydHkVNjT2ejzekD-_OD3A.png">
 2. Cihazın Onaylanmasını Kaldır penceresi karşınıza çıkacaktır. Kaldırmayı onaylamak için Tamam düğmesini tıklayın.
