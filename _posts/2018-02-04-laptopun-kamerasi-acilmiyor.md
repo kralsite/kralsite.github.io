@@ -10,7 +10,8 @@ Laptop yani dizüstü bilgisayarınızın web kamerası Windows 7, Windows 10, W
 </ul>
 
 <h3>Sürücüyü Kaldırma</h3> 
-1. Kameranın üstüne sağ tıklatın ve açılan bağlam menüsünden Kaldır'ı seçin.
+1. Kameranın üstüne sağ tıklatın ve açılan bağlam menüsünden Kaldır'ı seçin. Alttaki resim sizlere referans olması amacıyla yüklenmiştir.
+<img src="https://image.prntscr.com/image/gydHkVNjT2ejzekD-_OD3A.png">
 2. Cihazın Onaylanmasını Kaldır penceresi karşınıza çıkacaktır. Kaldırmayı onaylamak için Tamam düğmesini tıklayın.
 3. Bilgisayarınızı yeniden başlatın. Yeniden başlattıktan sonra, Windows otomatik olarak web kamera sürücüsünü yeniden yükleyecek ve aygıtınız kullanıma hazır hale gelecektir. 
 
