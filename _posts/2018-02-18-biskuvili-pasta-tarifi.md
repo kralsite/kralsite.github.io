@@ -1,6 +1,6 @@
 ---
 title: Bisküvili Pasta Tarifi - En Güzel Nasıl Yapılır?
-description: Laptop'un veya laptop'ın kamerası açılmıyor, çalışmıyor sorununun kesin çözümü burada. 2018 yılı güncel.
+description: Bisküvili Pasta Tarifi. En güzel ve kolay şekilde bisküvili pasta nasıl yapılır?
 header: Bisküvili Pasta Tarifi
 ---
 <div class="separator" style="clear: both; text-align: center;">
