@@ -34,7 +34,15 @@ Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tarifleri
 </ul>
 
 <!--googleoff: index-->
-<a name="cevaplar">CEVAPLAR</a>
+	<a name="cevaplar">CEVAPLAR</a>
+<style>details {float: left;     width: 100%;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+    padding: 6px 10px;
+    margin-top: 5px;}
+summary {outline: 0;
+cursor: pointer;}</style>
 
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
@@ -1595,7 +1603,4 @@ Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tarifleri
 <li>Sosyal Medyada Gezinirken Rastlanılanlar: Yer Bildirimi – Tespit – Anket – Reklam – Davet</li>
 </ol>
 </details>
-
-	<br>
-
 <!--googleon: index-->
