@@ -33,8 +33,8 @@ Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tarifleri
 <li>Dolaptan çıkardığınızda soğuk bir şekilde dilimleyip üzerine istediğiniz süsü dökerek servise hazır hale getirebilirsiniz.</li>
 </ul>
 
+<a name="cevaplar">CEVAPLAR</a>
 <!--googleoff: index-->
-	<a name="cevaplar">CEVAPLAR</a>
 <style>details {float: left;     width: 100%;
     border: 1px solid;
     border-color: #e5e6e9 #dfe0e4 #d0d1d5;
