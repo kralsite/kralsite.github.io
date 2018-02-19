@@ -9,7 +9,7 @@ header: Bisküvili Pasta Tarifi
 <tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-QYa25hlcspw/Vnr28gc2FFI/AAAAAAAAAEg/PFXL-qaq-F4/s1600/biskuvili-pasta2e.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Bisküvili Pasta" border="0" height="223" src="https://2.bp.blogspot.com/-QYa25hlcspw/Vnr28gc2FFI/AAAAAAAAAEg/PFXL-qaq-F4/s400/biskuvili-pasta2e.jpg" title="Bisküvili Pasta Tarifi" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Bisküvili Pasta</td></tr>
 </tbody></table>
-Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tariflerimizden ilki. Çikolatalı Bisküvili Pasta veya başka bir adıyla da Mozaik Pasta olan bu lezzetin farklı bir stili. Hazırlanışı gayet basit bütün genç hanımlar ilk tatlı tecrübesini bu pastayla edinebilir.<br />
+Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tariflerimizden ilki. Çikolatalı Bisküvili Pasta veya başka bir adıyla da Mozaik Pasta olan bu lezzetin farklı bir stili. Hazırlanışı gayet basit bütün acemiler ilk tatlı yapma tecrübesini bu pastayla edinebilir.<br />
 <br />
 <h3>Malzemeler:</h3>
 <ul>
