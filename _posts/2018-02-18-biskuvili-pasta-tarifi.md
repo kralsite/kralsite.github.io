@@ -6,7 +6,7 @@ header: Bisküvili Pasta Tarifi
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://kral.site/img/biskuvili-pasta.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Bisküvili Pasta" border="0" height="253" src="https://kral.site/img/biskuvili-pasta.jpg" title="Bisküvili Pasta Tarifi" width="420" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://kral.site/img/biskuvili-pasta.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Bisküvili Pasta" border="0" height="253" src="https://kral.site/img/biskuvili-pasta.jpg" title="Bisküvili Pasta Tarifi" width="430" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Bisküvili Pasta</td></tr>
 </tbody></table>
 Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tariflerimizden ilki. Çikolatalı Bisküvili Pasta veya başka bir adıyla da Mozaik Pasta olan bu lezzetin farklı bir stili. Hazırlanışı gayet basit bütün acemiler ilk tatlı yapma tecrübesini bu pastayla edinebilir.<br />
