@@ -21,9 +21,7 @@ Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tarifleri
 <li>4 Yemek kaşığı oda sıcaklığında bekletilmiş tereyağı&nbsp;</li>
 </ul>
 <br />
-<br />
-<h3>
-Bisküvili Pasta tarifi:</h3>
+<h3>Bisküvili Pasta Tarifi:</h3>
 <ul>
 <li>Bisküvilerinizi dörde bölerek bir kabın içine koyun. Başka bir kaba da şekerinizi, şekerli vanilini ve dört yemek kaşığı kakaonuzu koyun.</li>
 <li>Tereyağınızı dolaptan açılması için dışarı çıkarıp bir süre beklemeye bırakın bu sırada diğer işlemlere devam edebiliriz.</li>
