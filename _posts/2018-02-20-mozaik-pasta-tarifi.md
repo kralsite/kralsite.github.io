@@ -15,7 +15,7 @@ header: Mozaik Pasta Tarifi
 <li>1 Su bardağı süt (Yaklaşık 200 ml)</li>
 <li>Yarım su bardağı ezilmiş ceviz veyahut fındık (Yaklaşık 100 gr)</li>
 <li>3 Çorba kaşığı kako</li>
-<li>100 gr çikolata (Bitter veya sütlü seçim sizin :))</li>
+<li>100 gr çikolata (Bitter veya sütlü seçim sizin)</li>
 <li>3 Çorba kaşığı toz şeker (Toz şeker bulamazsanız aynı oranda küp şeker kullanabilirsiniz.)</li>
 <li>125 gr tereyağı, tereyağı yoksa margarin kullanabilirsiniz. (Fakat uyaralım margarin yağı hiç sağlıklı bir seçim değil.)</li>
 </ul>
