@@ -3,11 +3,11 @@ title: Mozaik Pasta Tarifi - En Güzel ve Kolay Nasıl Yapılır?
 description: En güzel ve en kolay mozaik pasta tarifinin nasıl yapılacağını merak ediyorsanız, lütfen buyrun.
 header: Mozaik Pasta Tarifi
 ---
-<b>Mozaik Pasta Tarifi</b> için aşağıdaki maddeleri adım adım takip edebilirsiniz. <u>Mozaik Pasta </u>ismini görünümünden alıyor. Bu tarz pastaların birden fazla farklı farklı çeşitleri vardır. Bunlardan birisi de işte bu harika lezzet. Tadları birbirlerine yakın olmasına rağmen farklı ek malzemelerle tariflerinizi benzersiz hale getirebilirsiniz.
+<b>Mozaik Pasta Tarifi</b> için aşağıdaki maddeleri adım adım takip edebilirsiniz. Bu pasta tarifi ismini görünümünden alıyor. Bu tarz pastaların birden fazla farklı farklı çeşitleri vardır. Bunlardan birisi de işte bu harika lezzet. Tadları birbirlerine yakın olmasına rağmen farklı ek malzemelerle tariflerinizi benzersiz hale getirebilirsiniz.
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="https://kral.site/img/mozaikpasta1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://kral.site/img/mozaikpasta1.jpg" width="240" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Mozaik Pasta Tarifi</td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Mozaik Pasta</td></tr>
 </tbody></table>
 <h3>Gereken malzemeler:</h3>
 <ul>
