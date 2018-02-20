@@ -8,11 +8,11 @@ Sütlaç nasıl yapılır sorusunun adeta cevabı niteliğinde olan bu tarifimiz
 <img src="https://kral.site/img/sutlac-tarifi.jpg">
 
 <h3>Sütlaç için gerekli olan malzemeler;</h3>
-1 çay bardağı pirinç, 1 litre süt, 2 bardak su, 2 kaşık pirinç unu, 1,5 bardak şeker, Tarçın
+1 çay bardağı pirinç, 1 litre süt, 2 bardak su, 2 kaşık pirinç unu, 1,5 bardak şeker, Tarçın<br><br>
 
 Bu kolay malzemeleri toplamayı başardıysanız hemen tarifimizin yapımına geçelim. Tabii kolay derken, parası olana kolay maalesef.
 
-<h2>Sütlaç Nasıl Yapılır?</h3>
+<h3>Sütlaç Nasıl Yapılır?</h3>
 1- Öncelikle 1 çay bardağı pirinci yıkayalım.<br>
 2- Ardından bir tencereye pirinçleri ve suyu koyarak kaynatalım.<br>
 3- Pirinçler suyunu çekene kadar pişirelim. 1 litre soğuk süt ekleyelim. Kaynayana kadar ara ara karıştıralım.<br>
