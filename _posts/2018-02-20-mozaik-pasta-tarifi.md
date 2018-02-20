@@ -1,7 +1,7 @@
 ---
 title: Mozaik Pasta Tarifi - En Güzel ve Kolay Nasıl Yapılır?
 description: En güzel ve en kolay mozaik pasta tarifinin nasıl yapılacağını merak ediyorsanız, lütfen buyrun.
-header: Laptop'un Kamerası Açılmıyorsa Ne Yapmalı?
+header: Mozaik Pasta Tarifi
 ---
 <b>&nbsp;<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
 <tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-RPEUFHvGP5k/Vn-8qtMutMI/AAAAAAAAAHQ/esk6I69aHBw/s1600/mozaikpasta-1.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://1.bp.blogspot.com/-RPEUFHvGP5k/Vn-8qtMutMI/AAAAAAAAAHQ/esk6I69aHBw/s320/mozaikpasta-1.png" width="178" /></a></td></tr>
