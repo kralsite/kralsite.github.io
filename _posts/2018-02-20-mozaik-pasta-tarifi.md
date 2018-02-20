@@ -3,15 +3,13 @@ title: Mozaik Pasta Tarifi - En Güzel ve Kolay Nasıl Yapılır?
 description: En güzel ve en kolay mozaik pasta tarifinin nasıl yapılacağını merak ediyorsanız, lütfen buyrun.
 header: Mozaik Pasta Tarifi
 ---
-<b>&nbsp;<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
-<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-RPEUFHvGP5k/Vn-8qtMutMI/AAAAAAAAAHQ/esk6I69aHBw/s1600/mozaikpasta-1.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://1.bp.blogspot.com/-RPEUFHvGP5k/Vn-8qtMutMI/AAAAAAAAAHQ/esk6I69aHBw/s320/mozaikpasta-1.png" width="178" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><b>Bisküvili Mozaik Pasta</b></td></tr>
-</tbody></table>
-</b><br />
-<b>Mozaik Pasta Tarifi</b> için aşağıdaki resimleri ve maddeleri adım adım takip edebilirsiniz. <u>Mozaik Pasta </u>ismini mozaik görünümden alıyor. Bu tarz Pastaların birden fazla farklı farklı çeşitleri vardır. Bunlardan birisi de işte bu harika lezzet. Tadları birbirlerine yakın olmasına rağmen farklı ek malzemelerle tariflerinizi benzersiz hale getirebilirsiniz. Bu konuda tabiki <b><a href="http://www.biskuvilipasta.com/">Bisküvili Pasta</a></b> sitemizden faydalanmanızı tavsiye ederiz. :)<br />
+<b>Mozaik Pasta Tarifi</b> için aşağıdaki maddeleri adım adım takip edebilirsiniz. <u>Mozaik Pasta </u>ismini görünümünden alıyor. Bu tarz pastaların birden fazla farklı farklı çeşitleri vardır. Bunlardan birisi de işte bu harika lezzet. Tadları birbirlerine yakın olmasına rağmen farklı ek malzemelerle tariflerinizi benzersiz hale getirebilirsiniz.
 <br />
-<h3>
-<i class="fa fa-shopping-cart"></i> &nbsp;Bisküvili Mozaik Pasta için gereken malzemeler:</h3>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://kral.site/img/mozaikpasta1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://kral.site/img/mozaikpasta1.jpg" width="240" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Mozaik Pasta Tarifi</td></tr>
+</tbody></table>
+<h3>Gereken malzemeler:</h3>
 <ul>
 <li>2 adet petibör bisküvit</li>
 <li>1 Su bardağı süt (Yaklaşık 200 ml)</li>
@@ -22,13 +20,12 @@ header: Mozaik Pasta Tarifi
 <li>125 gr tereyağı, tereyağı yoksa margarin kullanabilirsiniz. (Fakat uyaralım margarin yağı hiç sağlıklı bir seçim değil.)</li>
 </ul>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-cBvWccDh4v4/Vn-8pC4s-4I/AAAAAAAAAHE/BTMv-GE9ywU/s1600/mozaikpastatarifi.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://3.bp.blogspot.com/-cBvWccDh4v4/Vn-8pC4s-4I/AAAAAAAAAHE/BTMv-GE9ywU/s320/mozaikpastatarifi.png" width="240" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://kral.site/img/mozaikpastatarifi.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://kral.site/img/mozaikpastatarifi.jpg" width="240" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Mozaik Pasta Tarifi</td></tr>
 </tbody></table>
-<h3>
-<i class="fa fa-cutlery"></i> &nbsp;Bisküvili Mozaik Pasta yapılışı:</h3>
+<h3>Bisküvili Mozaik Pasta Nasıl Yapılır?</h3>
 <ol>
-<li>&nbsp;Öncelikle Mozaik Pasta Çikolata sosu yapılması için, bir tavanızda yağınızı eriteyene kadar ısıtın.</li>
+<li>&nbsp;Öncelikle çikolata sosu için, bir tavanızda yağınızı eriyene kadar ısıtın.</li>
 <li>Eriyen yağa sütün ve kakaonun tamamını boşaltın.</li>
 <li>Bu işlemleri yaparken karışımı sürekli karıştırarak kaynayana kadar devam edin.</li>
 <li>Kaynama başladıktan sonra şeker ve çikolatalarınızı karışıma ilave edin.</li>
@@ -43,4 +40,4 @@ header: Mozaik Pasta Tarifi
 <li>Yaklaşık 3 saat kadar buzdolabında soğutun.</li>
 </ol>
 <br />
-Ellerinize sağlık, dilediğiniz şekilde servis edip bu lezzeti  sevdiklerinizle paylaşabilirsiniz. Afiyet olsun :) 
+Ellerinize sağlık, dilediğiniz şekilde servis edip bu lezzeti  sevdiklerinizle paylaşabilirsiniz. Afiyet olsun.
