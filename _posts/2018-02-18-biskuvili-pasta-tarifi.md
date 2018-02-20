@@ -34,7 +34,7 @@ Yılların vazgeçilmez tadı olan klasik pastalardan Bisküvili Pasta tarifleri
 </ul>
 
 <a name="cevaplar">CEVAPLAR</a>
-<h3>Diğer Pasta Tarifleri:</h3> <a href="https://kral.site/mozaik-pasta-tarifi">Mozaik Pasta Tarifi</a>
+<b>Diğer Pasta Tarifleri:</b> <a target="_blank" href="https://kral.site/mozaik-pasta-tarifi">Mozaik Pasta Tarifi</a>
 <!--googleoff: index-->
 <style>details {float: left;     width: 100%;
     border: 1px solid;
