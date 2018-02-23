@@ -41,3 +41,8 @@ header: Mozaik Pasta Tarifi
 </ol>
 <br />
 Ellerinize sağlık, dilediğiniz şekilde servis edip bu lezzeti  sevdiklerinizle paylaşabilirsiniz. Afiyet olsun.
+
+<h3>DİĞER TARİFLER</h3>
+<a href="https://kral.site/biskuvili-pasta-tarifi">Bisküvili Pasta Tarifi - Nasıl Yapılır?</a><br>
+<a href="https://kral.site/mozaik-pasta-tarifi">Mozaik Pasta Tarifi - Nasıl Yapılır?</a><br>
+<a href="https://kral.site/sutlac-tarifi-nasil-yapilir">Sütlaç Tarifi - Sütlaç Nasıl Yapılır?</a><br>
