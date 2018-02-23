@@ -14,11 +14,17 @@ Hotmail, Microsoft şirketine ait bir e-posta hizmetiydi ve en büyük çıkış
 4- Bu basit işlemleri tamamladığınızda, Oturum aç butonunu bir kez tıklayın; ardından Hotmail posta kutunuza erişin. Bu sayfada e-postalar alabilir, gönderebilir ve belgeler yükleyip diğer mail adreslerine yollayabilirsiniz.<br>
 5- Şifrenizi unuttuysanız üstteki resimdede görebileceğiniz üzere e-postanızı yazdıktan sonra "Parolamı Unuttum" bağlantısına tıklayabilir ve yeni bir şifre almak için talimatları takip edebilirsiniz.<br>
 
-<h2>Hotmail Kaydol: Yeni E Posta Nasıl Kurulur?</h2>
-1- Kayıt işlemine başlamak için <a rel="nofollow" target="_blank" href="https://signup.live.com/signup">https://signup.live.com/signup</a> bu adresi tarayıcınızda açın.
+<h2>Hotmail Kaydol: Yeni E Posta Kur</h2>
+1- Kayıt işlemine başlamak için <a rel="nofollow" target="_blank" href="https://signup.live.com/signup">https://signup.live.com/signup</a> bu adresi tarayıcınızda açın.<br>
 <img width="325" height="436" title="hotmail kaydolma" src="https://kral.site/img/kaydol1.jpg">
-2- Üstteki resimde gösterdiğimiz gibi açılan sayfanın en altında bulunan "Yeni bir e-posta adresi alın" bağlantısına tıklayın.
-3- Kendinize yeni bir e-posta adresi kullanıcı adı ve şifre belirleyin. Sonra resimde de gösterdiğimiz gibi @hotmail, @outlook, @outlook.com.tr seçeneklerinden birini seçin.
-4- Hesabınızın detaylarını belirlemek için Ad ve Soyadınızı girin.
-5- Göndereceğiniz ve alacağınız maillerin saat ayarlarında kullanılacağı için yaşadığınız ülkeyi ve doğum tarihinizi belirleyin.
-6- Resimde gördüğünüz karmaşık karakterleri alttaki kutucuğa girin ve hesabınızı oluşturun. Bu oluşturduğunuz e-posta kullanıcı adı ve şifresiyle hotmail hesabınıza mail göndermek ve almak için girmek isterseniz, bu sayfanın üst tarafından nasıl oturum açabileceğinizi öğrenebilirsiniz.
+2- Üstteki resimde gösterdiğimiz gibi açılan sayfanın en altında bulunan "Yeni bir e-posta adresi alın" bağlantısına tıklayın.<br>
+<img width="325" height="399" title="hotmail kayıt resmi" src="https://kral.site/img/kaydol2.jpg">
+3- Kendinize yeni bir e-posta adresi kullanıcı adı ve şifre belirleyin. Sonra resimde de gösterdiğimiz gibi @hotmail, @outlook, @outlook.com.tr seçeneklerinden birini seçin.<br>
+<img width="327" height="273" title="outlook kaydolma" src="https://kral.site/img/kaydol3.jpg">
+4- Hesabınızın detaylarını belirlemek için Ad ve Soyadınızı girin.<br>
+<img width="325" height="313" title="outlook" src="https://kral.site/img/kaydol4.jpg">
+5- Göndereceğiniz ve alacağınız maillerin saat ayarlarında kullanılacağı için yaşadığınız ülkeyi ve doğum tarihinizi belirleyin.<br>
+<img width="324" height="414" title="hotmail" src="https://kral.site/img/kaydol5.jpg">
+6- Resimde gördüğünüz karmaşık karakterleri alttaki kutucuğa girin ve hesabınızı oluşturun. Bu oluşturduğunuz e-posta kullanıcı adı ve şifresiyle hotmail hesabınıza mail göndermek ve almak için girmek isterseniz, bu sayfanın üst tarafından nasıl oturum açabileceğinizi öğrenebilirsiniz.<br>
+
+E Posta kur işlemi bu şekilde bitiyor. Tebrikler, güzel günlerde kullanın. Ayrıca android veya iphone cihazlarınıza veya bilgisayarlarınıza e-posta hesabınızı kurmak isterseniz uygulama mağazalarından Outlook uygulamasını indirip, kurabilirsiniz.
