@@ -22,3 +22,8 @@ Bu kolay malzemeleri toplamayı başardıysanız hemen tarifimizin yapımına ge
 7- Kasedeki karışımı da tencereye ilave edip karıştırarak 10 dakika kadar kaynatın.<br>
 8- Son olarak ise şekeri ilave edin.<br>
 9- Kaselere koyarak servis yapabilirsiniz. Tarçınla süsleyebilirsiniz. <br>
+
+<h3>DİĞER TARİFLER</h3>
+<a href="https://kral.site/biskuvili-pasta-tarifi">Bisküvili Pasta Tarifi - Nasıl Yapılır?</a><br>
+<a href="https://kral.site/mozaik-pasta-tarifi">Mozaik Pasta Tarifi - Nasıl Yapılır?</a><br>
+<a href="https://kral.site/sutlac-tarifi-nasil-yapilir">Sütlaç Tarifi - Sütlaç Nasıl Yapılır?</a><br>
