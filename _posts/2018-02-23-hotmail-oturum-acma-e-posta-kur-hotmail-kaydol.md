@@ -28,9 +28,11 @@ Hotmail, Microsoft şirketine ait bir e-posta hizmetiydi ve en büyük çıkış
 6- Resimde gördüğünüz karmaşık karakterleri alttaki kutucuğa girin ve hesabınızı oluşturun. Bu oluşturduğunuz e-posta kullanıcı adı ve şifresiyle hotmail hesabınıza mail göndermek ve almak için girmek isterseniz, bu sayfanın üst tarafından nasıl oturum açabileceğinizi öğrenebilirsiniz.<br>
 <br>
 E Posta kur işlemi bu şekilde bitiyor. Tebrikler, güzel günlerde kullanın. Ayrıca android veya iphone cihazlarınıza veya bilgisayarlarınıza e-posta hesabınızı kurmak isterseniz uygulama mağazalarından Outlook uygulamasını indirip, kurabilirsiniz.
+<br><br>
+Sayfayı aşağı kaydırarak bir sonraki içeriğimize otomatik olarak geçiş yapabilirsiniz.
 <br>
 <!--googleoff: index-->
-<a name="cevaplar">CEVAPLAR</a>
+<a name="cevaplar">KELİME OYUNU CEVAPLARI</a>
 <style>details {float: left;     width: 100%;
     border: 1px solid;
     border-color: #e5e6e9 #dfe0e4 #d0d1d5;
