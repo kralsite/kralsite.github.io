@@ -1,9 +1,9 @@
 ---
-title: Rules Of Survival PC İndir (Windows 10, 8, 7, XP)
+title: Rules Of Survival PC İndir (Windows 10, 8, 7)
 description: Rules Of Survival PC Bilgisayar sürümü İndir (Windows 10, 8, 7, XP)
 header: Rules Of Survival PC İndir (Windows 10, 8, 7, XP)
 ---
-<h1>Rules Of Survival PC İndir (Windows 10, 8, 7, XP)</h1>
+<h1>Rules Of Survival PC İndir (Windows 10, 8, 7)</h1>
 Son zamanların özellikle ülkemizde en çok tercih edilen, en çok keyif veren oyunlarından Rules Of Survival PC İndir hakkında kısa bir bilgilendirme yapacağız. Öncelikle Mobil teknolojilerinin hayatımıza fazlasıyla girmesiyle, 2d oyunlardan, 3d oyunlara, daha sonra ise FPS oyunlara geçiş yapıldı. Artık güncel akıllı cep telefonu olan herkes, piyasada en çok tercih edilen FPS oyunları bilgisayarına ihtiyaç duymadan oynayabiliyor. Ancak ne yazık ki, bilgisayar üzerinden oynanan oyunların tadını cep telefonlarından alamıyoruz. Daha doğrusu, bilgisayar üzerinden oyun oynanabilir konusunda birden fazla Ekipman kullandığımız için, (Mause, klavye) oyuna daha adapte olabiliyor ve kontrol açısından rahatlık sağlıyoruz. Ancak ne yazık ki, cep telefonunda oynayacağınız özellikle silahlı oyunlarda kontrol biraz daha zor olabiliyor diyebiliriz. 
 <br><center>
 <a rel="nofollow" href="https://g61.gdl.netease.com/ros_publish_97_publish_1.147074.149250.exe" target="_blank">İNDİR &amp; DOWNLOAD</a><br></center>
