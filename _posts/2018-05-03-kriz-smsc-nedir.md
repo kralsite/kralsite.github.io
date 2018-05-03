@@ -28,13 +28,21 @@ Doğal afetler ve krizler anında belli bölgelerde yaşayan insanlara bu şekil
 Normalde doğal afetler, kriz anları vesaire durumlarda bu SMS'ler Doğal Afet Kurumu tarafından bütün telefon kullanan abonelere gönderiliyor. Ancak şu anda bu SMS'i ülkenin dört bir yanından kişi aldığı için bölgesel bir doğal afet söz konusu değil. Bu yüzden deneme amaçlı da yollanmış olabilir. Kısaca kimse bu konuda bir şey bilmiyor.
 
 <h3>YORUMLAR:</h3>
-Hakan: mesaj gelen arkadaşlar aynı şehirde misiniz peki belki belli bir bölgeye özeldir yorum girerken bulunduğunuz şehri ve ilçeyi de yazın lütfen.<br>
-Kamil: bana da gelen mesaj sanırsam test yapıyorlar ama bu bir test mesajıdır diye yazmaları lazımdı, gereksiz heyecan yarattılar bir anlık. ya da serverların üzerinde mangal yaparken biri yanlışlıkla göndere bastı.<br>
-Serap: bana da şimdi geldi. arkadaşlar bu bir virüs olabilir mi? <br>
-Cemal: bana da geldi , google’a baktım pek bir bilgi yok.<br>
-Selim: 15 dakika evvel mesajı gelen ve internette ne olduğuyla ilgili net bir bilgiye ulaşamadığım platform.<br>
-Enes Batur: zombi istilası olabilir mi lütfen olsun<br>
-Murat: bana da gelen, test sunucusundan atacaz derken production makinasını canlıya çeken platform veya büyük sıçıyoruz vaziyet alın.<br>
-Berkecan: merak ettiren mesajdır. sebebi neydi ki?<br>
-
-
+<strong>Kamil:</strong> bana da gelen mesaj sanırsam test yapıyorlar ama bu bir test mesajıdır diye yazmaları lazımdı, gereksiz heyecan yarattılar bir anlık. ya da serverların üzerinde mangal yaparken biri yanlışlıkla göndere bastı.<br>
+<strong>Serap:</strong> bana da şimdi geldi. arkadaşlar bu bir virüs olabilir mi? <br>
+<strong>Cemal:</strong> bana da geldi , google’a baktım pek bir bilgi yok.<br>
+<strong>Selim:</strong> 15 dakika evvel mesajı gelen ve internette ne olduğuyla ilgili net bir bilgiye ulaşamadığım platform.<br>
+<strong>Enes Batur:</strong> zombi istilası olabilir mi lütfen olsun<br>
+<strong>Murat:</strong> bana da gelen, test sunucusundan atacaz derken production makinasını canlıya çeken platform veya büyük sıçıyoruz vaziyet alın.<br>
+<strong>Berkecan:</strong> merak ettiren mesajdır. sebebi neydi ki?<br>
+<strong>Üfff:</strong> turkcell alt yapısı kullanılarak gönderilen smstir.<br>
+<strong>Cahit:</strong> afet bildirim hattıymış.heyecana gerek yok.bu hayatın heyecanı meyecanı yok.<br>
+<strong>Katip:</strong> afet bildirim hattıysa niye heyecana gerek yok? asıl o zaman heyecana gerek var kamil.
+<strong>Kamil:</strong> lan yorumu cahit atmış niye kamil diyon amk?
+<strong>Cahit:</strong> lan bana ismimle hitap et katip.
+<strong>Katip:</strong> lan kamil sen ne hemen maydonoz oluyon?
+<strong>Cahit:</strong> lan kamil sen beni niye savunuyon benim ağzım yok mu anten?
+<strong>Kamil:</strong> lan ben seni niye savunayım hoşaf cahit?
+<strong>Katip:</strong> bırak kardeş çoluk çocukla uğraşma.
+<strong>Cahit:</strong> haklısın kardeşim.
+<strong>Hakan:</strong> mesaj gelen arkadaşlar aynı şehirde misiniz peki belki belli bir bölgeye özeldir yorum girerken bulunduğunuz şehri ve ilçeyi de yazın lütfen.<br>
