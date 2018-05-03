@@ -26,3 +26,15 @@ Doğal afetler ve krizler anında belli bölgelerde yaşayan insanlara bu şekil
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 Normalde doğal afetler, kriz anları vesaire durumlarda bu SMS'ler Doğal Afet Kurumu tarafından bütün telefon kullanan abonelere gönderiliyor. Ancak şu anda bu SMS'i ülkenin dört bir yanından kişi aldığı için bölgesel bir doğal afet söz konusu değil. Bu yüzden deneme amaçlı da yollanmış olabilir. Kısaca kimse bu konuda bir şey bilmiyor.
+
+<h3>YORUMLAR:</h3>
+Hakan: mesaj gelen arkadaşlar aynı şehirde misiniz peki belki belli bir bölgeye özeldir yorum girerken bulunduğunuz şehri ve ilçeyi de yazın lütfen.<br>
+Kamil: bana da gelen mesaj sanırsam test yapıyorlar ama bu bir test mesajıdır diye yazmaları lazımdı, gereksiz heyecan yarattılar bir anlık. ya da serverların üzerinde mangal yaparken biri yanlışlıkla göndere bastı.<br>
+Serap: bana da şimdi geldi. arkadaşlar bu bir virüs olabilir mi? <br>
+Cemal: bana da geldi , google’a baktım pek bir bilgi yok.<br>
+Selim: 15 dakika evvel mesajı gelen ve internette ne olduğuyla ilgili net bir bilgiye ulaşamadığım platform.<br>
+Enes Batur: zombi istilası olabilir mi lütfen olsun<br>
+Murat: bana da gelen, test sunucusundan atacaz derken production makinasını canlıya çeken platform veya büyük sıçıyoruz vaziyet alın.<br>
+Berkecan: merak ettiren mesajdır. sebebi neydi ki?<br>
+
+
